@@ -14,7 +14,7 @@ Desarrolla una web para la escuela de música "Toquen el DOM", en la que los usu
 - El proyecto DEBE implementar metodología SCRUM.
 - El proyecto tendrá dos sprint.
 - Se DEBE utilizar GitFlow.
-- La página debe tener tres instrumentos  minímo a elegir entre piano, batería, guitarra y batería.
+- La página debe tener tres instrumentos  minímo a elegir entre piano, batería, guitarra y bajo.
 - El diseño del instrumento es de libre elección, se pueden diseñar los componentes aparte o utilizar recursos externos, si se utilizan recursos externos deben ser gratis, no se permite el plagio.
 - Los sonidos deben corresponder (En el caso del piano, guitarra y bajo las notas deben estar en el orden correcto, lo  mismo con las partes de la batería).
 - La página DEBE tener las siguientes páginas: home, instrumentos y about us.
@@ -30,11 +30,11 @@ Desarrolla una web para la escuela de música "Toquen el DOM", en la que los usu
 - El código DEBE ser ordenado, identado, semántico y con buenas prácticas de desarrollo: clean code.
 - La distribución del contenido DEBERÍA hacerse con Flex-box o Grid system.
 - No se pueden utilizar frameworks ni librerías, el desarrollo debe ser vanilla. Como excepción se permite el uso de librerías para el sonido y animación.
-- Los break points son:
-  - Small(sm): 640px
-  - Medium(md): 768px
-  - Large(lg): 1024px
-  - Extra large(xl): 1280px
+- El desarrollo será en tres tamaños:
+  - Small(sm): < 640px
+  - Medium(m): between 640px and 1024px
+  - Large(lg): > 1024px
+
 
 ### Extras
 - La página DEBE tener un apartado de Gramola, donde el usuario pueda seleccionar una canción y elegir los tres instrumentos para ser interpretada.
