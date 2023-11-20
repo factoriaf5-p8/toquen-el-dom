@@ -39,15 +39,15 @@ El diseño de la web queda a criterio de el equipo de desarrollo, aunque cabe ac
 ## Modalidades Pedagógicas
 
 
-Los equipos serán de 4-5 personas.
-Se trabajará durante 2 semanas, realizándose 2 sprints.
-La fecha de presentación y entrega es el 5 de Diciembre.
-Se trabajará mediante GitHub Classroom.
+- Los equipos serán de 4-5 personas.
+- Se trabajará durante 2 semanas, realizándose 2 sprints.
+- La fecha de presentación y entrega es el 5 de Diciembre.
+- Se trabajará mediante GitHub Classroom.
 
 ## Modalidades de Evaluación
 
-La evaluación se realizará mediante comentarios orales el día de la presentación.
-Se hará también una dinámica de autoevaluación.
+- La evaluación se realizará mediante comentarios orales el día de la presentación.
+- Se hará también una dinámica de autoevaluación.
 
 ### Bonus Track
 1. Crear el apartado **Gramola**, donde el usuario pueda seleccionar una canción y elegir los tres instrumentos para ser interpretada.
